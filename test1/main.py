@@ -7,8 +7,6 @@ import pandas as pd
 import xlsxwriter
 
 
-# to be deleted
-
 def main(name):
     create_sheet_for_report(name)
     xlsx_writer(name, basic_name_data(name))
