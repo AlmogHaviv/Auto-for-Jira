@@ -50,11 +50,3 @@ To set up the environment for these scripts, follow these steps:
 Before running the scripts, ensure the following:
 
 - There are no Hebrew words in any of the Excel or CSV files, as pandas uses UTF-8 encoding.
-
-## License
-
-This project is licensed under the [License Name] - specify the project's license and any usage restrictions.
-
-## Contributions and Acknowledgments
-
-If you'd like to contribute to this project, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
